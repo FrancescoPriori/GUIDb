@@ -8,11 +8,13 @@
 
 ![Raw](https://github.com/FrancescoPriori/GUIDb/assets/116790887/7a07a2e2-ab1c-4787-96ce-31bd39905b83)
 
-impostare copia sulle proprieta del file 
+impostare copia sempre sulle proprieta del file 
+
 ![copia sempre](https://github.com/FrancescoPriori/GUIDb/assets/116790887/9b2b8940-588e-479f-9c4a-220eed93dac5)
 
 Creare la classe Record.cs
 Tasto destro sul nome del progetto tasto sinistro su aggiungi e tasto sinistro su classe
+
 
 ![classe](https://github.com/FrancescoPriori/GUIDb/assets/116790887/34cfe0ff-22b1-4f97-a96c-14699b960b07)
 
